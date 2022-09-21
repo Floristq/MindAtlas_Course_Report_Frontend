@@ -25,7 +25,7 @@ npm install mysql2
 npm run server
 ```
 
-5. Open terminal in 'backend' folder and type:
+5. Open terminal in 'frontend' folder and type:
 ```
 npm run start
 ```
